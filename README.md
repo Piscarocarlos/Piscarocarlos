@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 	<a href="https://twitter.com/AlognonCarlos"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piscarocarlos&layout=compact)](https://github.com/Piscarocarlos/github-readme-stats)
 
