@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - :pencil2: I Write blogs on dev.to on free days.
 - :musical_note: I love to hear country music.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piscarocarlos&theme=cobalt&show_icons=true&count_private=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piscarocarlos&theme=cobalt&show_icons=true&hide=contribs,prs&hide=stars,prs,issues))
 
 ### Let's Connect :coffee:
 <p align="center">
