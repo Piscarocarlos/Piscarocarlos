@@ -1,4 +1,4 @@
-
+## About
 
 I love coding. I work at [2MSynergy](https://2msynergy.com/) as a Web & Mobile Developer and I'm web trainer.
 
