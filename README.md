@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - :musical_note: I love to hear country music.
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piscarocarlos&theme=cobalt&show_icons=true&hide=contribs,prs&count_private=true)
+
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Piscarocarlos&theme=onedark)](https://github.com/Piscarocarlos/github-profile-trophy)
 ### Let's Connect :coffee:
