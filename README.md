@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piscarocarlos&theme=cobalt&show_icons=true&hide=contribs,prs&count_private=true)
-<span align="right"><img src="https://media.giphy.com/media/3ornkfRwB6oU0vSa6A/giphy.gif" alt="Circus magic :-)" width="180"></span>
+<span align="right"><img src="https://media.giphy.com/media/3ornkfRwB6oU0vSa6A/giphy.gif" alt="Circus magic :-)" width="170"></span>
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Piscarocarlos&theme=onedark)](https://github.com/Piscarocarlos/github-profile-trophy)
