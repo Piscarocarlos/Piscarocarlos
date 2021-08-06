@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center"><img src="https://media.giphy.com/media/3ornkfRwB6oU0vSa6A/giphy.gif" alt="Circus magic :-)" width="160"></p>
+<p align="center"><img src="https://media.giphy.com/media/3ornkfRwB6oU0vSa6A/giphy.gif" alt="Circus magic :-)" width="220"></p>
