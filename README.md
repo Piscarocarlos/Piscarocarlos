@@ -1,6 +1,6 @@
 ## About
 
-I love coding. I work at [2MSynergy](https://2msynergy.com/) as a Web & Mobile Developer and I'm web trainer.
+I love coding. I work at [3WA](https://3wa.ma/) as a Web & Mobile Developer and I'm web trainer.
 
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
