@@ -1,6 +1,6 @@
 ## About
 
-I love coding. I work at [3WA](https://3wa.ma/) as a Web & Mobile Developer and I'm web trainer.
+I am passionate and in love with code. Seven years of experience already in this field. I am Technical Director at Maya Digital Morocco, trainer, and CEO of Acatech
 
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/ayi-carlos-alognon-anani-ab2421137/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/carlos.alognon/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/carlos_alognon/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/AlognonCarlos"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
 
