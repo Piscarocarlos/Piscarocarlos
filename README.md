@@ -2,32 +2,14 @@
 
 I am passionate and in love with code. Seven years of experience already in this field. I am Technical Director at Maya Digital Morocco, trainer, and CEO of Acatech
 
-<!--
-**sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Wakatime
+[![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@ln_dev7)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using PHP/Laravel.
-- 🌱 I’m currently learning JavaScript.
-- :pencil2: I Write blogs on dev.to on free days.
-- :musical_note: I love to hear country music.
+[![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@ln_dev7)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piscarocarlos&theme=cobalt&show_icons=true&hide=contribs,prs&count_private=true)
 <span align="right"><img src="https://media.giphy.com/media/3ornkfRwB6oU0vSa6A/giphy.gif" alt="Circus magic :-)" width="170"></span>
-
-## Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Piscarocarlos&theme=onedark)](https://github.com/Piscarocarlos/github-profile-trophy)
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/Piscarocarlos"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
