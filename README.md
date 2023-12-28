@@ -3,9 +3,9 @@
 I am passionate and in love with code. Seven years of experience already in this field. I am Technical Director at Maya Digital Morocco, trainer, and CEO of Acatech
 
 #### Wakatime
-[![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@ln_dev7)
+[![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@Piscarocarlos)
 
-[![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@ln_dev7)
+[![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@Piscarocarlos)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piscarocarlos&theme=cobalt&show_icons=true&hide=contribs,prs&count_private=true)
