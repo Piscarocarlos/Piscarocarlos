@@ -2,9 +2,6 @@
 
 I am passionate and in love with code. Seven years of experience already in this field. I am Technical Director at Maya Digital Morocco, trainer, and CEO of Acatech
 
-#### Wakatime
-[![wakatime-stats](https://github.com/ln-dev7/ln-dev7/blob/main/images/stat.svg)](https://wakatime.com/@Piscarocarlos)
-
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piscarocarlos&theme=cobalt&show_icons=true&hide=contribs,prs&count_private=true)
 <span align="right"><img src="https://media.giphy.com/media/3ornkfRwB6oU0vSa6A/giphy.gif" alt="Circus magic :-)" width="170"></span>
